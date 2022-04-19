@@ -1,4 +1,4 @@
-### Hi there 👋
+[![Gunawan's GitHub stats](https://github-readme-stats.vercel.app/api?username=mrizkigunawan)](https://github.com/mrizkigunawan/github-readme-stats)
 
 <!--
 **mrizkigunawan/mrizkigunawan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
